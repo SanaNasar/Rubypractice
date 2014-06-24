@@ -1,3 +1,3 @@
 Rubypractice
 ============
-This is a test Repository for my BEWD Class. I will use this Repo to push my Ruby practice exercises and small ruby projects which I will be working on.
+This Repo is created to push my Ruby practise exercises and small ruby code challenges which I will be working to test my ability to write code efficiently.
