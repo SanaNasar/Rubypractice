@@ -11,17 +11,19 @@ def factorial(n)
   end
 end
 
+puts factorial(5)
+
 #iteratively
 
-def factorial(num)
-  result = 1
-  if num <= 1
-    result
-  else
-    while num > 1
-      result *= num
-      num -= 1
-    end
-    result
-  end
-end
+# def factorial(num)
+#   result = 1
+#   if num <= 1
+#     result
+#   else
+#     while num > 1
+#       result *= num
+#       num -= 1
+#     end
+#     result
+#   end
+# end
