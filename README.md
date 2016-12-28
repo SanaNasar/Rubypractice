@@ -1,3 +1,3 @@
 Rubypractice
 ============
-This Repo is created to push my Ruby practise exercises and small ruby code challenges which I will be working to test my ability to write code efficiently.
+This is a repository created to store all my ruby practice code challenges, which I will be working to test my ability of writing code efficiently.
